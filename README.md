@@ -1,6 +1,5 @@
 # Phishing-Email-Forensics
-Email header analysis with SPF, DKIM, DMARC validation and domain analysis toolkit  
-
+This toolkit provides email header analysis with SPF, DKIM, and DMARC validation, as well as domain analysis
 
 Executive Summary
 
